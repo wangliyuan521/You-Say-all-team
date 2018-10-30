@@ -6,6 +6,7 @@
 
 our first cooperation
 
+
 项目简介
 
 《你农我侬》 是一款包含 农民优惠政策 农业经验交流 农作物买卖功能的APP。
@@ -20,19 +21,35 @@ our first cooperation
 商品 推出优质农产品。
 我的 介绍用户个人信息。
 
+
 项目成员
+
 王丽媛（Manager/Developer）
+
   Email:501344340@qq.com
+  
   Github:http://github.com/wangliyuan521
+  
 孟乐鑫（Developer）
+
   Email:970914982@qq.com
+  
   Github:http://github.com/MengLeXin
+  
 吴三荣（Developer）
-  Email:20850675430@qq.com
+
+  Email:2085067543@qq.com
+  
   Github:http://github.com/wusanrong915
+  
 张韬毅（Developer）
+
   Email:734045289@qq.com
+  
   Github:http://github.com/zhangtaoyi77
+  
 李伊瑒（Developer）
+
   Email:2603879358@qq.com
+  
   Github:http://github.com/LiYiYang1123
